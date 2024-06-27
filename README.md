@@ -11,10 +11,10 @@
   <a href="https://www.instagram.com/ar.yan21_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="aryanrathod410@gmail.com" target="_blank">
+  <a href="mailto:aryanrathod410@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="9537954871" target="_blank">
+  <a href="https://wa.me/9537954871" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Aryan Rathod from Gandhinagar,Gujarat,India<br><br>- 🔭 I’m working as full-stack developer<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I watch anime or movies</p>
+<p align="left">I'm Aryan Rathod from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time, I watch anime or movies<br>- 🎖️ I reached the state-level hackathon SSIP'23 final, where over 20,000 students registered</p>
 
 ###
 
@@ -85,6 +85,24 @@
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/69/be/7e/69be7e1f5343b7ebf9632ec5e554f1f6.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanrathod21&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanrathod21&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryanrathod21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ###
