@@ -111,8 +111,4 @@
   <img src="https://komarev.com/ghpvc/?username=Aryanrathod21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-<your_repo_count>-blue?style=for-the-badge" alt="Total Repositories" />
-</div>
