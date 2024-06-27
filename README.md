@@ -90,6 +90,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanrathod21&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanrathod21&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
@@ -103,12 +109,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryanrathod21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanrathod21&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ###
