@@ -24,12 +24,13 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
-
+<pre>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Aryan Rathod from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning WordPress<br>- ⚡ In my free time, I watch anime or movies<br>- 🎖️ I reached the state-level hackathon SSIP'23 final, where over 20,000 students registered, as a team leader</p>
+</pre>  
 
 ###
 
