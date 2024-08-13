@@ -122,3 +122,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aryanrathod21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=100"/>
+</p>
+
