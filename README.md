@@ -96,6 +96,13 @@
 
 ###
 
+<div align="center" style="display: flex;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanrathod21&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
@@ -105,14 +112,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanrathod21&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
-###
-
-<div align="center" style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-</div>
-
 
 ###
 
