@@ -108,6 +108,14 @@
 
 ###
 
+<div align="center" style="display: flex;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+</div>
+
+
+###
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryanrathod21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
