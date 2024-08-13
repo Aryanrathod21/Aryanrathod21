@@ -96,10 +96,13 @@
 
 ###
 
-<div align="center" style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryanrathod21&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+<div align="center">
+  <div style="display: flex; border: 2px solid #FF0066; border-radius: 10px; padding: 10px; background-color: #2d2d2d;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryanrathod21&layout=compact&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryanrathod21&layout=compact&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  </div>
 </div>
+
 
 ###
 
