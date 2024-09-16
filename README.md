@@ -29,7 +29,7 @@
 
 ###
 <pre>
-<p align="left">I'm Aryan Rathod from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning WordPress<br>- ⚡ In my free time, I watch anime or movies<br>- 🎖️ I reached the state-level hackathon SSIP'23 final, where over 20,000 students registered, as a team leader</p>
+<p align="left">I'm Aryan Rathod from Gandhinagar, Gujarat, India<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time, I watch anime or movies<br>- 🎖️ I reached the state-level hackathon SSIP'23 final, where over 20,000 students registered, as a team leader</p>
 </pre>  
 
 ###
